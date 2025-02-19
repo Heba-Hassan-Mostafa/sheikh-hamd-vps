@@ -1,0 +1,221 @@
+@media  (max-width: 2024px){
+  .carousel-inner .carousel-item img {
+    width: 100%;
+    height: 435px;
+  }
+}
+@media  (max-width: 1320px){
+  .newDataContent .card .card-img-top{
+      width : auto;
+      height : auto;
+      max-width : 100%;
+  }
+}
+@media (max-width: 1024px) {
+    
+  .shadow-img {
+    width: 50%;
+  }
+  .menu {
+    padding: 0 !important;
+  }
+  .menu li a {
+    font-size: 13px;
+  }
+
+  .newDataContent {
+    padding: 50px 12px;
+  }
+  .coming-card .time-details svg {
+    font-size: 3rem;
+    padding: 0;
+  }
+  .twite-ifram iframe {
+    margin: auto !important;
+  }
+  categoriesSearch form {
+    margin-left: auto;
+    margin-right: 10px !important;
+  }
+  .sideCategories {
+    max-width: 25%;
+  }
+  .frist-nav-list{
+    margin: 30px 10px;
+    padding: 0;
+  }
+}
+/********************************************/
+@media (max-width : 992px){
+    .coming-card {
+    flex-direction: column-reverse;
+  }
+}
+/* **************************************** */
+@media (max-width: 768px) {
+  .search-form {
+    max-width: 100%;
+  }
+  .frist-nav img {
+    max-width: 75%;
+    max-height: 75%;
+  }
+  .frist-nav-list {
+    margin: 2px;
+  }
+  .frist-nav-list ul {
+    padding: 5px 15px;
+  }
+  .navigation {
+    height: 60px;
+  }
+  .menu {
+    top: 60px;
+  }
+  .carousel-inner .carousel-item img {
+    width: 100%;
+    height: auto!important;
+
+  }
+  .allTabs {
+    padding: 0 35px;
+  }
+  .allTabs .tab {
+    width: 100px;
+    margin: 10px 20px;
+  }
+  .coming-card {
+    padding: 8px 8px;
+    margin: 8px 0px;
+  }
+  .coming-card .time-details svg {
+    font-size: 2.8rem;
+  }
+  .coming-card .time-details .day-time {
+    font-size: 16px;
+  }
+  .coming-card .time-details .month-time {
+    font-size: 14px;
+  }
+  .coming-card p span {
+    font-size: 14px !important;
+  }
+  .sideCategories {
+    max-width: 55%;
+  }
+  footer a img{
+    height : auto;
+    width : auto;
+    max-height: 75%;
+    max-width: 75%;
+  }
+}
+/* ********************************* */
+@media (max-width: 767px) {
+  .coming-card .time-details {
+    margin-bottom: 15px;
+  }
+  .statistics-counter .counter-box {
+    max-width: 30%;
+  }
+  .twite-ifram {
+    width: 100% !important;
+  }
+  .twite-ifram iframe {
+    width: 300px !important;
+  }
+  .twite-ifram {
+    height: 400px;
+  }
+  .sub-twitter .card-subscribe {
+    max-width: 95%;
+    margin: 45px auto 0;
+  }
+  .allMore .more-box a {
+    font-size: 12px;
+  }
+  .fatwa form .inputHead input {
+    max-width: 81%;
+  }
+  .sideSocial {
+    top: 1px;
+    /* left: 5px; */
+  }
+  .coming-soon-content {
+    flex-direction: row-reverse;
+  }
+  .categoriesSearch form {
+    max-width: 92%;
+    margin: 10px auto !important;
+    margin-left: 0 !important;
+  }
+  .sideCategories {
+    max-width: 65%;
+  }
+  .fatawaContent {
+    flex-direction: column-reverse
+  }
+  .eventSliderContent {
+      display:block!important;
+  }
+  .eventSliderContentCard{
+      margin:auto;
+      max-width: 100%;
+  }
+  .eventSliderContent img {
+      max-width: 90%;
+    margin: 8px auto;
+  }
+}
+/* ********************************* */
+@media (max-width: 425px) {
+  .allTabs {
+    padding: 0px 12px;
+  }
+  .allTabs img{
+      max-height : 50%;
+  }
+  .statistics-counter .counter-box {
+    max-width: 45%;
+  }
+  .pray-embbed iframe {
+    border-radius: 10px;
+    width: 88% !important;
+    height: 285px !important;
+  }
+  .twite-ifram iframe {
+    width: 290px !important;
+    margin-right: auto !important;
+  }
+  .sub-twitter .card-subscribe form input {
+    max-width: 95%;
+  }
+  footer .quick-link ul li a {
+    font-size: 13px;
+  }
+  .sideCategories {
+    max-width: 82%;
+  }
+   .embeedVideo iframe ,.embeedAudio iframe {
+    width: 350px;
+    height: 200px;
+    margin: 10px auto;
+  }
+  .libraryPage a {
+    font-size: 12px!important;
+  }
+  .libraryPage img {
+    max-width: 90%;
+  }
+}
+/* **************************** */
+@media (max-width: 375px) {
+  .twite-ifram iframe {
+    width: 240px !important;
+    margin-right: auto !important;
+  }
+  .embeedVideo iframe ,.embeedAudio iframe{
+    width: 295px;
+    height: 220px;
+  }
+}

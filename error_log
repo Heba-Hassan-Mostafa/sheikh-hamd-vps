@@ -1,0 +1,118 @@
+[01-Mar-2023 14:54:36 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 14:54:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:03:03 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:03:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:04:32 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:04:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:05:53 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:05:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:07:52 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:07:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:10:07 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:10:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:10:30 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:10:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:11:57 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:11:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:12:05 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:12:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:12:14 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:12:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:12:22 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:12:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:12:32 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 15:12:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/o2fuhrc9toin/public_html/index.php on line 34
+[01-Mar-2023 16:13:50 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:13:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php(61): composerRequire0dc985d8253ba8426558d320f8ce0979()
+#1 /home/o2fuhrc9toin/public_html/vendor/autoload.php(7): ComposerAutoloaderInit0dc985d8253ba8426558d320f8ce0979::getLoader()
+#2 /home/o2fuhrc9toin/public_html/index.php(34): require('/home/o2fuhrc9t...')
+#3 {main}
+  thrown in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:13:54 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:13:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php(61): composerRequire0dc985d8253ba8426558d320f8ce0979()
+#1 /home/o2fuhrc9toin/public_html/vendor/autoload.php(7): ComposerAutoloaderInit0dc985d8253ba8426558d320f8ce0979::getLoader()
+#2 /home/o2fuhrc9toin/public_html/index.php(34): require('/home/o2fuhrc9t...')
+#3 {main}
+  thrown in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:13:55 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:13:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php(61): composerRequire0dc985d8253ba8426558d320f8ce0979()
+#1 /home/o2fuhrc9toin/public_html/vendor/autoload.php(7): ComposerAutoloaderInit0dc985d8253ba8426558d320f8ce0979::getLoader()
+#2 /home/o2fuhrc9toin/public_html/index.php(34): require('/home/o2fuhrc9t...')
+#3 {main}
+  thrown in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:13:55 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:13:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php(61): composerRequire0dc985d8253ba8426558d320f8ce0979()
+#1 /home/o2fuhrc9toin/public_html/vendor/autoload.php(7): ComposerAutoloaderInit0dc985d8253ba8426558d320f8ce0979::getLoader()
+#2 /home/o2fuhrc9toin/public_html/index.php(34): require('/home/o2fuhrc9t...')
+#3 {main}
+  thrown in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:13:55 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:13:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php(61): composerRequire0dc985d8253ba8426558d320f8ce0979()
+#1 /home/o2fuhrc9toin/public_html/vendor/autoload.php(7): ComposerAutoloaderInit0dc985d8253ba8426558d320f8ce0979::getLoader()
+#2 /home/o2fuhrc9toin/public_html/index.php(34): require('/home/o2fuhrc9t...')
+#3 {main}
+  thrown in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:14:38 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:14:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php(61): composerRequire0dc985d8253ba8426558d320f8ce0979()
+#1 /home/o2fuhrc9toin/public_html/vendor/autoload.php(7): ComposerAutoloaderInit0dc985d8253ba8426558d320f8ce0979::getLoader()
+#2 /home/o2fuhrc9toin/public_html/index.php(34): require('/home/o2fuhrc9t...')
+#3 {main}
+  thrown in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:16:41 UTC] PHP Warning:  require(/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php): Failed to open stream: No such file or directory in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[01-Mar-2023 16:16:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/o2fuhrc9toin/public_html/vendor/composer/../barryvdh/laravel-debugbar/src/helpers.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php(61): composerRequire0dc985d8253ba8426558d320f8ce0979()
+#1 /home/o2fuhrc9toin/public_html/vendor/autoload.php(7): ComposerAutoloaderInit0dc985d8253ba8426558d320f8ce0979::getLoader()
+#2 /home/o2fuhrc9toin/public_html/index.php(34): require('/home/o2fuhrc9t...')
+#3 {main}
+  thrown in /home/o2fuhrc9toin/public_html/vendor/composer/autoload_real.php on line 78
+[05-Jan-2024 07:00:02 UTC] PHP Warning:  Version warning: Imagick was compiled against ImageMagick version 1808 but version 1809 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[05-Jan-2024 19:00:03 UTC] PHP Warning:  Version warning: Imagick was compiled against ImageMagick version 1808 but version 1809 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0

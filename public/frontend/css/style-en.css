@@ -1,0 +1,53 @@
+.search-form button {
+  right: 0;
+  left: auto;
+}
+.newDataContent,
+.pray,
+.allMore,
+.sub-twitter {
+  direction: rtl;
+}
+.sideSocial {
+  right: 15px;
+  left: auto;
+}
+#scrollToTop {
+  right: auto !important;
+  left: 30px;
+}
+@media (max-width: 767px) {
+  .coming-card {
+    direction: rtl;
+  }
+}
+.real-come {
+  position: relative;
+  left: 0;
+}
+.cardCat,
+.content
+ {
+  direction: rtl;
+}
+.categoriesSearch form,
+.asksTable,
+.frist-nav,
+.allTabs,
+#liSen,
+footer{
+    direction: ltr;
+}
+.allTabs p {
+  font-size: 14px;
+}
+#liSen li a {
+  font-size: 12px;
+}
+.statistics-counter .counter-box p {
+  font-size: 14px;
+}
+footer h3 {
+  font-size: 18px;
+  text-align: center;
+}
