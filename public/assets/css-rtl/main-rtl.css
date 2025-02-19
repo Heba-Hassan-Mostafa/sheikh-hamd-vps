@@ -1,0 +1,252 @@
+body {
+  font-family: cairo;
+  font-weight: bold !important;
+}
+.app-sidebar .side-item.side-item-category {
+  font-weight: bold !important;
+  font-size: 14px !important;
+}
+.table thead th {
+  font-weight: bold !important;
+  font-size: 14px !important;
+  color: #0093ca !important;
+}
+.table th,
+.table td {
+  vertical-align: inherit;
+}
+.custom-control-input:checked ~ .custom-control-label::before {
+  border-color: #22c03c;
+  background-color: #22c03c;
+}
+.btn-sm {
+  padding: 0.5rem 0.9rem;
+  font-size: 0.9rem;
+  margin: 0 2px;
+  border-radius: 5px;
+}
+.card-title {
+  font-weight: bold;
+  color: #03aad7;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.addNewCont {
+  width: fit-content;
+  margin: 22px 22px 0 0;
+}
+/********/
+.draggable-mirror {
+  background-color: #fff;
+  width: 1200px;
+  max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.reOrder:hover {
+  background-color: #ddd !important;
+  transition: all 0.4s ease-in;
+  cursor: grab;
+}
+.sorting_1 {
+  background-color: #fff !important;
+  text-align: center;
+}
+.sorting_asc,
+.sorting,
+.sorting_desc {
+  width: 24px !important;
+  padding: 15px !important;
+  text-align: center !important;
+}
+.dataTables_filter {
+  display: contents !important;
+}
+.dataTables_filter input {
+  padding: 20px 10px !important;
+  width: 65% !important;
+}
+.custom-select {
+  font-weight: bold !important;
+  font-size: 20px !important;
+}
+
+.fristParent {
+  background: #e9ecf6;
+  border-radius: 10px;
+  margin: 20px 0 !important;
+  box-shadow: 1px 1px 10px #999;
+  justify-content: center;
+}
+.parentCategory {
+  margin: 16px !important;
+  padding: 10px !important;
+  border-radius: 10px;
+  box-shadow: 4px 4px 10px #ddd;
+  background: #fff;
+}
+.parentCategory label {
+  font-size: 18px !important;
+  margin: 5px !important;
+}
+.parentCategory ul {
+  margin-right: 70px !important;
+}
+.icon-path {
+  transform: rotate(90deg);
+  font-size: 20px;
+  color: #24b1da !important;
+  margin-right: 3px;
+}
+.selectCatTo {
+  font-weight: bold;
+  color: #05aad7;
+}
+.inputContentUpload,
+.inputContentDescription,
+.contentTextEditor,
+.HeadInput {
+  margin: 30px 0;
+  background: #eceff8;
+  padding: 20px 5px;
+  border-radius: 2px;
+  box-shadow: 1px 1px 10px #ddd;
+}
+.inputContentDescription {
+  margin: 0 25px;
+}
+.inputContentUpload label,
+.inputContentDescription label {
+  font-weight: bold;
+  margin: 20px 0 5px;
+  color: #03aad7;
+  font-size: 18px;
+}
+.inputContentUpload input,
+.inputContentDescription input {
+  box-shadow: 1px 1px 10px #ddd;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.showContentTh {
+  font-weight: bold !important;
+  width: 180px;
+  text-align: right;
+  background: #00adef;
+  color: #fff;
+}
+.showContentTd {
+  text-align: start;
+}
+.active {
+  color: #00adef !important;
+  font-weight: bold !important;
+}
+.file-drag-handle {
+  display: none;
+}
+.captionBoxDesign {
+  justify-content: space-evenly;
+}
+.captionBoxDesign .pDiv {
+  display: inline-grid;
+  padding: 15px 5px;
+  margin: 20px auto;
+  box-shadow: 1px 1px 10px #ddd;
+  border-radius: 12px;
+  width: 33%;
+  justify-content: center;
+}
+.captionBoxDesign .pDiv:hover {
+  background: #ecf0fa;
+  cursor: grab;
+}
+.captionBoxDesign .pDiv img {
+  width: 380px;
+  margin: auto;
+  max-width: 100%;
+}
+.captionBoxDesign .pDiv .allInputs {
+  margin: 20px 10px 5px;
+  border: none;
+  box-shadow: rgb(119, 119, 119) 1px 1px 6px;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.fc-resizable {
+  width: 100% !important;
+  border-radius: 5px !important;
+  max-width: 90%;
+  margin: auto;
+  background-color: #05d705 !important;
+  color: #fff !important;
+  height: 24px;
+  border: none;
+  padding: 3px;
+  font-weight: bold;
+  text-align: center;
+}
+.navCustom {
+  width: 100%;
+  border: 2px solid;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  box-shadow: 1px 4px 14px #ddd;
+  justify-content: center;
+}
+.table-info {
+  height: 50px;
+}
+.table-info th {
+  padding-bottom: 14px !important;
+}
+.branch a {
+  background: #03aad7;
+  color: #fff !important;
+  padding: 3px 10px;
+  border-radius: 5px;
+}
+.nav-tabs .nav-link {
+  padding: 10px !important;
+}
+div.table-responsive
+  > div.dataTables_wrapper
+  > div.row
+  > div[class^='col-']:first-child {
+  padding-left: 10px !important;
+}
+.fatwaAns label {
+  margin: 10px 0 !important;
+}
+.deleteVideo {
+  margin: auto;
+  margin-right: 10px;
+  max-height: 40px;
+}
+.side-icon{
+    margin-left: 10px;
+    font-size: 20px;
+    line-height: normal;
+    color: #54aad7;
+}
+.displayLogCard {
+    margin : 34px auto;
+    max-width : 70%;
+}
+.tbodyDisplayLog::before {
+  content: '';
+  display: block;
+  height: 30px;
+}
+.tbodyDisplayLog{
+    text-align : left;
+        font-weight: bold;
+}
+.display_log {
+    font-weight : bold;
+}
+.display_log span:first-child{
+    color : #00adef;
+}
